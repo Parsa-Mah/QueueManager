@@ -8,5 +8,4 @@ for _ in range(10):
     persons_list.append(p)
 
 for person in persons_list:
-    print(person.id)
-
+    print(person)
