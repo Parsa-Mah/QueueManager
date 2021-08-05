@@ -1,2 +1,2 @@
 # QueueManager
-a simple queue manager
+A simple queue manager
